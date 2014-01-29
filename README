@@ -1,1 +1,18 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+Tested frameworks:
+* PicoContainer
+* Avalon
+* NanoContainer
+* Peapod
+* Carbon
+* Excalibur
+* Gravity
+* Soto
+* JICE
+* HiveMind
+* DNA
+* Loom
+* Spice
+* Yan
+* Google Guice
+* Plexus
+* OfficeFloor
