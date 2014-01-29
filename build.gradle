@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = "com.summercoding.benchmark.ioc.Main"
+
+repositories {
+    mavenCentral()
+}
+configurations {
+    compile
+}
+dependencies {
+    compile 'org.springframework:spring-core:4.0.0.RELEASE'
+    compile 'org.springframework:spring-context:4.0.0.RELEASE'
+    compile 'org.springframework:spring-context:4.0.0.RELEASE'
+}

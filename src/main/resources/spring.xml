@@ -1,0 +1,12 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+    <bean id="sample" class="com.summercoding.benchmark.ioc.SampleImpl"/>
+
+    <bean id="base" class="com.summercoding.benchmark.ioc.Base">
+        <property name="sample" ref="sample"/>
+    </bean>
+
+</beans>
