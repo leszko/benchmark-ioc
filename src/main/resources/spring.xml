@@ -3,9 +3,9 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
            http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 
-    <bean id="sample" class="com.summercoding.benchmark.ioc.SampleImpl"/>
+    <bean id="sample" class="com.summercoding.benchmark.ioc.SampleImpl" scope="prototype"/>
 
-    <bean id="base" class="com.summercoding.benchmark.ioc.Base">
+    <bean id="base" class="com.summercoding.benchmark.ioc.Base" scope="prototype">
         <property name="sample" ref="sample"/>
     </bean>
 

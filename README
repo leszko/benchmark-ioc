@@ -1,5 +1,7 @@
 Tested frameworks:
+* Spring
 * PicoContainer
+
 * Avalon
 * NanoContainer
 * Peapod

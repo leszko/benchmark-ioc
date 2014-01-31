@@ -19,6 +19,7 @@
     <orderEntry type="library" exported="" name="aopalliance-1.0" level="project" />
     <orderEntry type="library" exported="" name="spring-aop-4.0.0.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="spring-context-4.0.0.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="picocontainer-2.14.3" level="project" />
   </component>
 </module>
 

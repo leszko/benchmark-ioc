@@ -6,6 +6,6 @@ package com.summercoding.benchmark.ioc;
 public class SampleImpl implements Sample {
     @Override
     public void foo() {
-        System.out.println("SampleImpl foo method invoked.");
+        // System.out.println("SampleImpl foo method invoked.");
     }
 }
