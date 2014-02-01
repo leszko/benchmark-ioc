@@ -1,11 +1,12 @@
 Tested frameworks:
+* No Container
 * Spring
 * PicoContainer
 * Google Guice
 * Silk
 
-* Loom
-* Spice
 * Yan
+* JBossMC (Microcontainer)
 * Plexus
-* OfficeFloor
+* Dagger
+* Femtocontainer
