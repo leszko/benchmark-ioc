@@ -6,7 +6,7 @@
     <bean id="sample" class="com.summercoding.benchmark.ioc.pojo.SampleImpl" scope="prototype"/>
 
     <bean id="base" class="com.summercoding.benchmark.ioc.pojo.Base" scope="prototype">
-        <property name="sample" ref="sample"/>
+        <constructor-arg ref="sample"/>
     </bean>
 
 </beans>

@@ -6,7 +6,7 @@ package com.summercoding.benchmark.ioc.pojo;
 public class Base {
     private Sample sample;
 
-    public void setSample(Sample sample) {
+    public Base(Sample sample) {
         this.sample = sample;
     }
 

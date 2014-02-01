@@ -15,4 +15,5 @@ dependencies {
     compile 'org.springframework:spring-context:4.0.0.RELEASE'
     compile 'org.picocontainer:picocontainer:2.14.3'
     compile 'com.google.inject:guice:3.0'
+    compile 'se.jbee:silk-di:0.6'
 }

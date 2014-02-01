@@ -2,17 +2,8 @@ Tested frameworks:
 * Spring
 * PicoContainer
 * Google Guice
+* Silk
 
-* Avalon
-* NanoContainer
-* Peapod
-* Carbon
-* Excalibur
-* Gravity
-* Soto
-* JICE
-* HiveMind
-* DNA
 * Loom
 * Spice
 * Yan
