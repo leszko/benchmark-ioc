@@ -1,12 +1,16 @@
 package com.summercoding.benchmark.ioc;
 
+import com.summercoding.benchmark.ioc.guice.Guice;
+import com.summercoding.benchmark.ioc.pojo.PicoContainer;
+import com.summercoding.benchmark.ioc.pojo.Spring;
+
 /**
  * @author: Rafal Leszko
  */
 public class Main {
-    private static final Framework[] FRAMEWORKS = {new Spring(), new PicoContainer()};
+    private static final Framework[] FRAMEWORKS = {new Spring(), new PicoContainer(), new Guice()};
 
-    private static final int TIMES = 1000000;
+    private static final int TIMES = 1_000_000;
 
     public static void main(String[] args) {
         System.out.println("IoC Benchmark");

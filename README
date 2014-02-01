@@ -1,6 +1,7 @@
 Tested frameworks:
 * Spring
 * PicoContainer
+* Google Guice
 
 * Avalon
 * NanoContainer
@@ -15,6 +16,5 @@ Tested frameworks:
 * Loom
 * Spice
 * Yan
-* Google Guice
 * Plexus
 * OfficeFloor

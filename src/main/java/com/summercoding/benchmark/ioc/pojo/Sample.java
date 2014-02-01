@@ -1,4 +1,4 @@
-package com.summercoding.benchmark.ioc;
+package com.summercoding.benchmark.ioc.pojo;
 
 /**
  * @author: Rafal Leszko

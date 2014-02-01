@@ -1,5 +1,6 @@
-package com.summercoding.benchmark.ioc;
+package com.summercoding.benchmark.ioc.pojo;
 
+import com.summercoding.benchmark.ioc.Framework;
 import org.picocontainer.DefaultPicoContainer;
 import org.picocontainer.MutablePicoContainer;
 import org.picocontainer.injectors.SetterInjection;
