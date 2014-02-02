@@ -16,4 +16,7 @@ dependencies {
     compile 'org.picocontainer:picocontainer:2.14.3'
     compile 'com.google.inject:guice:3.0'
     compile 'se.jbee:silk-di:0.6'
+    compile 'com.squareup.dagger:dagger:1.2.0'
+    compile 'com.squareup.dagger:dagger-compiler:1.2.0'
+    compile 'com.squareup:javawriter:2.2.1'
 }

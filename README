@@ -4,9 +4,8 @@ Tested frameworks:
 * PicoContainer
 * Google Guice
 * Silk
+* Dagger (wymaga annotation processing)
 
-* Yan
 * JBossMC (Microcontainer)
 * Plexus
-* Dagger
 * Femtocontainer

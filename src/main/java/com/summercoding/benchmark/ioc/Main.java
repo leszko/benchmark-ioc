@@ -1,6 +1,7 @@
 package com.summercoding.benchmark.ioc;
 
 import com.summercoding.benchmark.ioc.guice.Guice;
+import com.summercoding.benchmark.ioc.javax.Dagger;
 import com.summercoding.benchmark.ioc.pojo.NoContainer;
 import com.summercoding.benchmark.ioc.pojo.PicoContainer;
 import com.summercoding.benchmark.ioc.pojo.Spring;
@@ -10,7 +11,7 @@ import com.summercoding.benchmark.ioc.pojo.silk.Silk;
  * @author: Rafal Leszko
  */
 public class Main {
-    private static final Framework[] FRAMEWORKS = {new NoContainer(), new Spring(), new PicoContainer(), new Guice(), new Silk()};
+    private static final Framework[] FRAMEWORKS = {new NoContainer(), new Spring(), new PicoContainer(), new Guice(), new Silk(), new Dagger()};
 
     private static final int TIMES = 1_000_000;
 
