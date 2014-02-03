@@ -1,6 +1,7 @@
 package com.summercoding.benchmark.ioc.guice;
 
 import com.google.inject.Inject;
+import com.summercoding.benchmark.ioc.pojo.Sample;
 
 /**
  * @author: Rafal Leszko

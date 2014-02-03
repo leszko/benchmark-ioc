@@ -5,7 +5,7 @@ import com.summercoding.benchmark.ioc.guice.Guice;
 import com.summercoding.benchmark.ioc.pojo.NoContainer;
 import com.summercoding.benchmark.ioc.pojo.PicoContainer;
 import com.summercoding.benchmark.ioc.pojo.Spring;
-import com.summercoding.benchmark.ioc.pojo.silk.Silk;
+import com.summercoding.benchmark.ioc.pojo.Silk;
 
 /**
  * @author: Rafal Leszko

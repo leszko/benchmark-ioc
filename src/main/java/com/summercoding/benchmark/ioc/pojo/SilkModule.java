@@ -1,8 +1,5 @@
-package com.summercoding.benchmark.ioc.pojo.silk;
+package com.summercoding.benchmark.ioc.pojo;
 
-import com.summercoding.benchmark.ioc.pojo.Base;
-import com.summercoding.benchmark.ioc.pojo.Sample;
-import com.summercoding.benchmark.ioc.pojo.SampleImpl;
 import se.jbee.inject.bind.BinderModule;
 import se.jbee.inject.util.Scoped;
 

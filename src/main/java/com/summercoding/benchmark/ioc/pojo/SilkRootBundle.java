@@ -1,4 +1,4 @@
-package com.summercoding.benchmark.ioc.pojo.silk;
+package com.summercoding.benchmark.ioc.pojo;
 
 import se.jbee.inject.bootstrap.BootstrapperBundle;
 
