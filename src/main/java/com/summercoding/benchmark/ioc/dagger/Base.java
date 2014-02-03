@@ -1,4 +1,4 @@
-package com.summercoding.benchmark.ioc.javax;
+package com.summercoding.benchmark.ioc.dagger;
 
 import javax.inject.Inject;
 
