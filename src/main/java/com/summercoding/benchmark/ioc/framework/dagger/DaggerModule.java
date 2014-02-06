@@ -1,4 +1,4 @@
-package com.summercoding.benchmark.ioc.dagger;
+package com.summercoding.benchmark.ioc.framework.dagger;
 
 import com.summercoding.benchmark.ioc.pojo.Sample;
 import com.summercoding.benchmark.ioc.pojo.SampleImpl;

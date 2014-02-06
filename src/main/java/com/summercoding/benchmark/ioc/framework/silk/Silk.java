@@ -1,6 +1,7 @@
-package com.summercoding.benchmark.ioc.pojo;
+package com.summercoding.benchmark.ioc.framework.silk;
 
-import com.summercoding.benchmark.ioc.Framework;
+import com.summercoding.benchmark.ioc.framework.Framework;
+import com.summercoding.benchmark.ioc.pojo.Base;
 import se.jbee.inject.Dependency;
 import se.jbee.inject.Injector;
 import se.jbee.inject.bootstrap.Bootstrap;

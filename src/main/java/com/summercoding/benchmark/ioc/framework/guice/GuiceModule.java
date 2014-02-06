@@ -1,4 +1,4 @@
-package com.summercoding.benchmark.ioc.guice;
+package com.summercoding.benchmark.ioc.framework.guice;
 
 import com.google.inject.AbstractModule;
 import com.summercoding.benchmark.ioc.pojo.Sample;

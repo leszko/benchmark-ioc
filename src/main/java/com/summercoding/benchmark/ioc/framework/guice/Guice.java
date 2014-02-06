@@ -1,7 +1,7 @@
-package com.summercoding.benchmark.ioc.guice;
+package com.summercoding.benchmark.ioc.framework.guice;
 
 import com.google.inject.Injector;
-import com.summercoding.benchmark.ioc.Framework;
+import com.summercoding.benchmark.ioc.framework.Framework;
 
 /**
  * @author: Rafal Leszko

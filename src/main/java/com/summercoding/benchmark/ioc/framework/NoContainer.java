@@ -1,6 +1,7 @@
-package com.summercoding.benchmark.ioc.pojo;
+package com.summercoding.benchmark.ioc.framework;
 
-import com.summercoding.benchmark.ioc.Framework;
+import com.summercoding.benchmark.ioc.pojo.Base;
+import com.summercoding.benchmark.ioc.pojo.SampleImpl;
 
 /**
  * @author: Rafal Leszko

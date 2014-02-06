@@ -1,6 +1,6 @@
-package com.summercoding.benchmark.ioc.dagger;
+package com.summercoding.benchmark.ioc.framework.dagger;
 
-import com.summercoding.benchmark.ioc.Framework;
+import com.summercoding.benchmark.ioc.framework.Framework;
 import dagger.ObjectGraph;
 
 /**

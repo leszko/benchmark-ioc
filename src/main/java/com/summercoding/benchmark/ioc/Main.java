@@ -1,11 +1,12 @@
 package com.summercoding.benchmark.ioc;
 
-import com.summercoding.benchmark.ioc.dagger.Dagger;
-import com.summercoding.benchmark.ioc.guice.Guice;
-import com.summercoding.benchmark.ioc.pojo.NoContainer;
-import com.summercoding.benchmark.ioc.pojo.PicoContainer;
-import com.summercoding.benchmark.ioc.pojo.Spring;
-import com.summercoding.benchmark.ioc.pojo.Silk;
+import com.summercoding.benchmark.ioc.framework.Framework;
+import com.summercoding.benchmark.ioc.framework.NoContainer;
+import com.summercoding.benchmark.ioc.framework.PicoContainer;
+import com.summercoding.benchmark.ioc.framework.Spring;
+import com.summercoding.benchmark.ioc.framework.dagger.Dagger;
+import com.summercoding.benchmark.ioc.framework.guice.Guice;
+import com.summercoding.benchmark.ioc.framework.silk.Silk;
 
 /**
  * @author: Rafal Leszko

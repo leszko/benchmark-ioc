@@ -1,6 +1,6 @@
-package com.summercoding.benchmark.ioc.pojo;
+package com.summercoding.benchmark.ioc.framework;
 
-import com.summercoding.benchmark.ioc.Framework;
+import com.summercoding.benchmark.ioc.pojo.Base;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

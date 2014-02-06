@@ -1,14 +1,19 @@
-package com.summercoding.benchmark.ioc.guice;
+package com.summercoding.benchmark.ioc.framework.dagger;
 
-import com.google.inject.Inject;
 import com.summercoding.benchmark.ioc.pojo.Sample;
+
+import javax.inject.Inject;
 
 /**
  * @author: Rafal Leszko
  */
 public class Base {
-    @Inject
     private Sample sample;
+
+    @Inject
+    public Base(Sample sample) {
+        this.sample = sample;
+    }
 
     public Sample getSample() {
         return sample;
