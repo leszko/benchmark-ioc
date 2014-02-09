@@ -8,6 +8,11 @@ Each tested framework was to instantiate **10 000 000** **prototype** beans (*Ba
 
 ![alt text](https://github.com/leszko/benchmark-ioc/raw/master/dependency.png)
 
+The result time is a sum of times spent on:
+* creating *Base* class, 
+* getting *SampleImpl* class from it, 
+* invoking a sample *foo()* method.
+
 ### Results
 
 ![alt text](https://github.com/leszko/benchmark-ioc/raw/master/chart.png)
