@@ -8,3 +8,5 @@
 | Dagger | 2498 |
 
 ![alt text](https://github.com/leszko/benchmark-ioc/raw/master/dependency.png)
+
+![alt text](https://github.com/leszko/benchmark-ioc/raw/master/chart.png)
