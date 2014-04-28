@@ -8,7 +8,7 @@ Each tested framework was to instantiate **10 000 000** **prototype** beans (*Ba
 
 ![alt text](https://github.com/leszko/benchmark-ioc/raw/master/dependency.png)
 
-The result time is a sum of times spent on:
+The result time a total time spent on:
 * creating *Base* class, 
 * getting *SampleImpl* class from it, 
 * invoking a sample *foo()* method.
@@ -19,4 +19,4 @@ The result time is a sum of times spent on:
 
 ### Conclusion
 
-The winner is **Dagger**, which is suitable for both: Android and Java. Its power is in annotation preprocessing during compile time. You can read more here: http://square.github.io/dagger/.
+The winner is **Dagger**. That IoC is suitable for both: Android and Java. Its power is in annotation preprocessing during the compilation time. You can read more here: http://square.github.io/dagger/.
