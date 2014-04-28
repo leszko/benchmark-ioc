@@ -19,4 +19,4 @@ The result time a total time spent on:
 
 ### Conclusion
 
-The winner is **Dagger**. That IoC is suitable for both: Android and Java. Its power is in annotation preprocessing during the compilation time. You can read more here: http://square.github.io/dagger/.
+The winner is **Dagger**. That IoC is suitable for both: Android and Java. Its power is in the annotation preprocessing during compilation time. You can read more here: http://square.github.io/dagger/.
